@@ -1,7 +1,6 @@
 import Notiflix from 'notiflix';
 
 const form = document.querySelector('.form');
-const createBtn = document.querySelector('button');
 
 form.addEventListener('submit', onSubmit);
 
